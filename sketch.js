@@ -61,7 +61,7 @@ function draw(){
     button3.show();
     button4.show();
     
-    hyper = createA("https://ekron-shoo.github.io/FPS/fps/", "Start To Kill","_self");
+    hyper = createA("https://ekron-shoo.github.io/Part-2/fps/", "Start To Kill","_self");
     hyper.position(displayWidth-155,displayHeight-108);
   }
 
